@@ -1,1 +1,6 @@
-# spring-kafka-at-most-once
+# java-springboot-kafka-at-most-once
+
+key:
+```yaml
+enable-auto-commit: true
+```
